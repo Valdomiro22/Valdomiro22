@@ -1,4 +1,4 @@
 ## Olá/Hello 👋
 
-- 🤖 Android developer
-- 🌱 Java, Kotlin
+- 🤖 Web developer
+- 🌱 Js, Ts, HTML, React
